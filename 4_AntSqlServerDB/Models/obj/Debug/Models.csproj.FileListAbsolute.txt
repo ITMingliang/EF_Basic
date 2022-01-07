@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\AntSqlServerDB\Models\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\AntSqlServerDB\Models\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\AntSqlServerDB\Models\obj\Debug\Models.dll
+C:\Users\Administrator\Desktop\AntSqlServerDB\Models\obj\Debug\Models.pdb
+C:\Users\Administrator\Desktop\AntSqlServerDB\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AntSqlServerDB\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache

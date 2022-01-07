@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\bin\Debug\Models.dll
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\bin\Debug\Models.pdb
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\Interop.Excel.dll
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\Interop.Office.dll
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\DAL.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\奇艺教程\学生管理系统\StudentManagerSYS\DAL\obj\Debug\DAL.pdb
